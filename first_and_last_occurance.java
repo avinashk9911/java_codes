@@ -1,6 +1,9 @@
 // by recursion we are finding the first and the last index of an character 
 // occuring in a given string
 
+// this code is written by me
+// you will find the question in lecture number: 18 of java placement course
+
 public class first_and_last_occurance {
     public static void main(String[] args) {
 
