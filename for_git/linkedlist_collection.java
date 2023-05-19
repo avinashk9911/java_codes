@@ -35,6 +35,15 @@ public class linkedlist_collection{
 		System.out.println("when we sort teh linked list: ");
 		Collections.sort(linkedlist);
 		System.out.println(linkedlist);
+		
+		//Iterating the linkedlist
+		for(int i=0; i<linkedlilst.size(); i++){
+			System.out.print(linkedlist.get(i)+" ");
+		}
+		
+		for(String str: ll){
+			System.out.println(str+" ");
+		}
 
 	}
 }
