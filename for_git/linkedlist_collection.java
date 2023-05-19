@@ -41,6 +41,7 @@ public class linkedlist_collection{
 			System.out.print(linkedlist.get(i)+" ");
 		}
 		
+		//Using the for each loop
 		for(String str: ll){
 			System.out.println(str+" ");
 		}
